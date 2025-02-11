@@ -1,7 +1,10 @@
 
 # 🏆 Pokédex API - Pegue todos! 🎮
 
-![Pokedex Banner](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png)
+![Pokedex Banner](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png)
+
+
+
 
 > Uma Pokédex completa utilizando uma API para buscar informações dos Pokémon! 🌍🔍
 
