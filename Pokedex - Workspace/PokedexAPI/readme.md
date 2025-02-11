@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório da **Pokédex App**! Este projeto conecta as seções **Frontend** e **Backend** de maneira interativa, utilizando dados fornecidos pela **PokeAPI** para exibir informações detalhadas sobre Pokémon.
 
-![Ash Ketchum](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png)
+![Pokébola](https://raw.githubusercontent.com/PokeAPI/sprites/items/poke-ball.png)
 
 ### 🔥 Funcionalidades
 - **Frontend**: Criado com **Eclipse** para uma experiência interativa.
