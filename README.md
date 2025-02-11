@@ -36,6 +36,7 @@ Se você tem o **Git** instalado no seu computador, pode clonar o repositório c
 git clone https://github.com/seu-usuario/pokedex-api.git**
 
 Isso criará uma cópia do repositório na sua máquina local.
+
 📥 Baixando Manualmente
 
     1. Acesse o repositório no GitHub: Pokedex API
