@@ -43,7 +43,7 @@ Isso criará uma cópia do repositório na sua máquina local.
 
 ### 📥 Baixando Manualmente
 
-1. Acesse o repositório no GitHub: [PokedexAPP](https://github.com/seu-usuario/pokedex-api)
+1. Acesse o repositório no GitHub: [PokedexAPP](https://github.com/seu-usuario/PokedexAPP)
 2. Clique no botão verde **Code**.
 3. Selecione a opção **Download ZIP**.
 4. Extraia o arquivo ZIP em sua máquina para acessar todos os arquivos do projeto.
