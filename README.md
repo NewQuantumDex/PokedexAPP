@@ -29,6 +29,29 @@ A Pokédex é capaz de realizar requisições eficientes, garantindo que as info
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png" width="150" alt="Squirtle">  
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="150" alt="Pikachu">  
 
+### 🧑‍💻 Usando o Git
+Se você tem o **Git** instalado no seu computador, pode clonar o repositório com o seguinte comando:
+
+**```bash
+git clone https://github.com/seu-usuario/pokedex-api.git**
+
+Isso criará uma cópia do repositório na sua máquina local.
+📥 Baixando Manualmente
+
+    1. Acesse o repositório no GitHub: Pokedex API
+    2. Clique no botão verde Code.
+    3. Selecione a opção Download ZIP.
+    4. Extraia o arquivo ZIP em sua máquina para acessar todos os arquivos do projeto.
+
+🤝 Contribuições
+
+Quer ajudar a melhorar essa Pokédex? Sinta-se livre para abrir um PR! ✨
+🔥 Treine para se tornar um Mestre Pokémon!
+
+    "Temos que pegar, isso eu sei! Pegá-los eu tentarei!" 🎶🎵
+
+🎉 Divirta-se explorando o mundo Pokémon! 🎉
+
 
 ## 🤝 Contribuições
 Quer ajudar a melhorar essa Pokédex? Sinta-se livre para abrir um PR! ✨
