@@ -34,7 +34,7 @@ A Pokédex é capaz de realizar requisições eficientes, garantindo que as info
 Se você tem o **Git** instalado no seu computador, pode clonar o repositório com o seguinte comando:
 
 ```bash
-git clone https://github.com/seu-usuario/pokedex-api.git
+git clone https://github.com/seu-usuario/PokedexAPP.git
 ```
 
 Isso criará uma cópia do repositório na sua máquina local.
