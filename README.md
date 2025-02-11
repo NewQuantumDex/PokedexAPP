@@ -1,12 +1,14 @@
 
-# 🏆 Pokédex API - Pegue todos! 🎮
+# 🏆 Pokédex API ! 🎮
 
 ![Pokedex Banner](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png)
 
 
 
-
-> Uma Pokédex completa utilizando uma API para buscar informações dos Pokémon! 🌍🔍
+## 🔍 Sobre
+A Pokédex Interativa oferece aos usuários uma forma dinâmica e divertida de explorar o mundo dos Pokémon. Utilizando a poderosa PokeAPI, o app busca informações detalhadas sobre os Pokémon, como seus nomes, tipos, habilidades, entre outros.
+Com essa integração, os usuários podem facilmente pesquisar por qualquer Pokémon e visualizar suas informações de forma rápida e organizada. A interface foi desenvolvida com a utilização do Eclipse IDE, tornando a navegação fluida e interativa.
+A Pokédex é capaz de realizar requisições eficientes, garantindo que as informações sejam carregadas com sucesso. Assim, o app oferece uma experiência leve e intuitiva para fãs de Pokémon de todas as idades.
 
 ## 🚀 Funcionalidades
 ✅ Listagem de Pokémon 📜  
