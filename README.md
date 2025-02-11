@@ -1,4 +1,4 @@
-```md
+
 # 🏆 Pokédex API - Pegue todos! 🎮
 
 ![Pokedex Banner](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png)
@@ -27,23 +27,6 @@
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png" width="150" alt="Squirtle">  
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="150" alt="Pikachu">  
 
-## 📦 Como instalar e rodar o projeto?
-```bash
-# Clone este repositório
-$ git clone https://github.com/seu-usuario/pokedex-api.git
-
-# Entre na pasta do projeto
-$ cd pokedex-api
-
-# Instale as dependências
-$ npm install  # ou yarn install
-
-# Execute o projeto
-$ npm start  # ou yarn start
-```
-
-## 🌎 Fonte de Dados
-Os dados são retirados da incrível [PokeAPI](https://pokeapi.co/)! 🏆
 
 ## 🤝 Contribuições
 Quer ajudar a melhorar essa Pokédex? Sinta-se livre para abrir um PR! ✨
