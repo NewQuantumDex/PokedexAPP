@@ -1,22 +1,19 @@
 
 # 🏆 Pokédex API - Pegue todos! 🎮
 
-![Pokedex Banner](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png)
+![Pokedex Banner](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png)
 
 > Uma Pokédex completa utilizando uma API para buscar informações dos Pokémon! 🌍🔍
 
 ## 🚀 Funcionalidades
-✅ Listagem de Pokémon com detalhes 📜  
-✅ Busca por nome ou número 🔢  
+✅ Listagem de Pokémon 📜  
 ✅ Filtros por tipo (🔥💧🌿⚡ etc.)  
 ✅ Exibição de habilidades e estatísticas 📊  
 ✅ Interface amigável e responsiva 🖥️📱  
 
 ## 🛠️ Tecnologias Utilizadas
-- ⚛️ **React** (para a interface interativa)
-- 🎨 **Styled Components / Tailwind** (para um visual incrível)
 - 🌍 **PokeAPI** (para obter dados dos Pokémon)
-- ⚡ **Axios / Fetch** (para requisições eficientes)
+- ⚡ **Eclipse** (para o ambiente de desenvolvimento)
 
 ## 📸 Preview
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png" width="200" alt="Pokédex Preview">
